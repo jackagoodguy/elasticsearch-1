@@ -1,0 +1,16 @@
+/.project
+/pom.xml.versionsBackup
+/**/*/.project
+/**/*/target
+/**/*/pom.xml.versionsBackup
+/**/*/.settings
+/**/*/.classpath
+/**/*/.idea
+/.idea
+/**/*.iml
+/.editorconfig
+/**/*/.factorypath
+*.DS_Store
+/**/logs/
+/logs/
+/target
